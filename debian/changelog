@@ -1,3 +1,7 @@
+apt (1.8.2-1) unstable; urgency=medium
+  * add smart mirror patch
+ --  electricface <songwentai@deepin.org>  Wed, 30 Oct 2019 10:25:47 +0800
+
 apt (1.8.2) unstable; urgency=medium
 
   [ Alwin Henseler ]
