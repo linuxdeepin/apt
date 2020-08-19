@@ -1,2 +1,3 @@
 deepin-smartmirror.patch
 deepin-smartmirror-http.patch
+deepin-CVE-2020-3810.patch
