@@ -1,3 +1,10 @@
+apt (1.8.2.2-1+dde) buster; urgency=medium
+
+  * Non-maintainer upload.
+  * fix CVE-2020-3810
+
+ -- zhouzilong <zhouzilong@uniontech.com>  Thu, 20 Aug 2020 13:11:52 +0800
+
 apt (1.8.2-1) unstable; urgency=medium
   * add smart mirror patch
  --  electricface <songwentai@deepin.org>  Wed, 30 Oct 2019 10:25:47 +0800
